@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs "
+  message: "Welcome to ArifBank accounts related local APIs "
   contactDetails:
-    name: "John Doe - Developer"
-    email: "john@eazybank.com"
+    name: "Ariful Islam - Developer"
+    email: "arifcse209@gmail.com"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
