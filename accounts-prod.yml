@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to ArifBank Accounts Service PROD API"
+  message: "Welcome to ArifBank Accounts Service PRODUCTION API"
   contactDetails:
     name: "Ariful Islam - Developer"
     email: "{cipher}72917435e3a637749b2abdb9bce96ddf66950fef88b8e62243cb9518fe017359b591368b18792f78db612d30e9782847"
