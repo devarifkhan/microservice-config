@@ -1,11 +1,12 @@
 server:
   port: 8072
-  
+
 eureka:
   instance:
-    preferIpAddress: true
+    prefer-ip-address: true  # Fix: Changed to correct format
+
   client:
-    registerWithEureka: true
-    fetchRegistry: true
-    serviceUrl:
+    register-with-eureka: true  # Fix: Changed to correct format
+    fetch-registry: true
+    service-url:
       defaultZone: "http://localhost:8070/eureka/"
